@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [📚 Boas vindas](README.md)
 
 ## About us
 
